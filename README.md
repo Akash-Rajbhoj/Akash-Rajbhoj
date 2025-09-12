@@ -103,6 +103,6 @@
 ### 📫 Contact Me
 <p align="center">
   <a href="mailto:akashrajbhoj30@gmail.com"><img src="https://img.shields.io/badge/Email-akashrajbhoj30@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/akash-rajbhoj-9b8729250"><img src="https://img.shields.io/badge/LinkedIn-Akash%20Rajbhoj-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/akash-rajbhoj-9b8729250" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Akash%20Rajbhoj-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--   <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobe&logoColor=white"/></a> -->
 </p>
