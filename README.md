@@ -24,10 +24,13 @@
 
 ### 📊 GitHub Stats & Activity  
 
+### 📊 GitHub Stats & Activity  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashrajbhoj&show_icons=true&theme=tokyonight&count_private=true&hide=issues"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashrajbhoj&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akashrajbhoj&show_icons=true&theme=tokyonight&count_private=true&hide=issues&cache_seconds=7200" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akashrajbhoj&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=akashrajbhoj)
 
