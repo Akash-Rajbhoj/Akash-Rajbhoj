@@ -61,6 +61,14 @@
   <a href="https://github.com/akashrajbhoj/blog-system" target="_blank">View Repo</a> | <a href="#" target="_blank">Live Demo</a>
 </a>
 
+<a href="https://github.com/akashrajbhoj/MyFirstProjectCRUDOperation" target="_blank">
+  <img src="https://via.placeholder.com/300x150.png?text=CRUD+Project" alt="MyFirstProjectCRUDOperation" width="300" style="margin:10px; border-radius:10px;"/>
+  <br>
+  <b>My First CRUD Project</b>  
+  <br>
+  <a href="https://github.com/akashrajbhoj/MyFirstProjectCRUDOperation" target="_blank">View Repo</a> | <a href="#" target="_blank">Live Demo</a>
+</a>
+
 </div>
 
 ---
@@ -104,5 +112,4 @@
 <p align="center">
   <a href="mailto:akashrajbhoj30@gmail.com"><img src="https://img.shields.io/badge/Email-akashrajbhoj30@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/akash-rajbhoj-9b8729250" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Akash%20Rajbhoj-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!--   <a href="YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobe&logoColor=white"/></a> -->
 </p>
