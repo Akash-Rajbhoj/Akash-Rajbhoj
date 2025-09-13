@@ -35,28 +35,28 @@
 
 ---
 
-### 💼 Projects Showcase  
-
-<div align="center">
 
 ### 💼 Projects Showcase  
+
 
 <p align="center">
   <!-- Quiz Microservices -->
   <a href="https://github.com/akashrajbhoj/quiz-microservices">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashrajbhoj&repo=quiz-microservices&theme=tokyonight" alt="Quiz Microservices" />
   </a>
-
+  
   <!-- Vehicle Management -->
   <a href="https://github.com/akashrajbhoj/vehicle-management">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashrajbhoj&repo=vehicle-management&theme=tokyonight" alt="Vehicle Management" />
   </a>
+</p>
 
-  <!-- Blog Management -->
+<p align="center">
+  <!-- Blog System -->
   <a href="https://github.com/akashrajbhoj/blog-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashrajbhoj&repo=blog-system&theme=tokyonight" alt="Blog Management System" />
   </a>
-
+  
   <!-- CRUD Project -->
   <a href="https://github.com/akashrajbhoj/MyFirstProjectCRUDOperation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashrajbhoj&repo=MyFirstProjectCRUDOperation&theme=tokyonight" alt="My First CRUD Project" />
@@ -64,7 +64,7 @@
 </p>
 
 
-</div>
+
 
 ---
 
