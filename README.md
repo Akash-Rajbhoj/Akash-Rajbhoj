@@ -101,7 +101,7 @@
 
 <p align="center">
 <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=600&lines=Backend+%26+Frontend+Developer;Java+%7C+Spring+Boot+%7C+Hibernate+%7C+MySQL;HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;API+Development+%26+Cloud+Exploration;Always+Learning+New+Things!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;API+Development+%26+Cloud+Exploration;Always+Learning+New+Things!" alt="Typing SVG" />
  </a>
 </p>
 
