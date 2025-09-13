@@ -44,20 +44,20 @@
 <p align="center">
   <!-- Row 1 -->
   <a href="https://github.com/akashrajbhoj/quiz-microservices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashrajbhoj&repo=quiz-microservices&theme=tokyonight&v=2" alt="Quiz Microservices" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash-Rajbhoj&repo=quiz-microservices&theme=tokyonight&v=2" alt="Quiz Microservices" />
   </a>
   <a href="https://github.com/akashrajbhoj/vehicle-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashrajbhoj&repo=vehicle-management&theme=tokyonight&v=2" alt="Vehicle Management" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash-Rajbhoj&repo=vehicle-management&theme=tokyonight&v=2" alt="Vehicle Management" />
   </a>
 </p>
 
 <p align="center">
   <!-- Row 2 -->
   <a href="https://github.com/akashrajbhoj/blog-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashrajbhoj&repo=blog-system&theme=tokyonight&v=2" alt="Blog Management System" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash-Rajbhoj&repo=blog-system&theme=tokyonight&v=2" alt="Blog Management System" />
   </a>
   <a href="https://github.com/akashrajbhoj/MyFirstProjectCRUDOperation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashrajbhoj&repo=MyFirstProjectCRUDOperation&theme=tokyonight&v=2" alt="My First CRUD Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akash-Rajbhoj&repo=MyFirstProjectCRUDOperation&theme=tokyonight&v=2" alt="My First CRUD Project" />
   </a>
 </p>
 
