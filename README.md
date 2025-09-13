@@ -39,37 +39,30 @@
 
 <div align="center">
 
-<a href="https://github.com/akashrajbhoj/quiz-microservices" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=Quiz+Microservices" alt="Quiz Microservices" width="300" style="margin:10px; border-radius:10px;"/>
-  <br>
-  <b>Quiz App Microservices</b>  
-  <br>
-  <a href="https://github.com/akashrajbhoj/quiz-microservices" target="_blank">View Repo</a> | <a href="#" target="_blank">Live Demo</a>
-</a>
+### 💼 Projects Showcase  
 
-<a href="https://github.com/akashrajbhoj/vehicle-management" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=Vehicle+Management" alt="Vehicle Management" width="300" style="margin:10px; border-radius:10px;"/>
-  <br>
-  <b>Vehicle Management System</b>  
-  <br>
-  <a href="https://github.com/akashrajbhoj/vehicle-management" target="_blank">View Repo</a> | <a href="#" target="_blank">Live Demo</a>
-</a>
+<p align="center">
+  <!-- Quiz Microservices -->
+  <a href="https://github.com/akashrajbhoj/quiz-microservices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashrajbhoj&repo=quiz-microservices&theme=tokyonight" alt="Quiz Microservices" />
+  </a>
 
-<a href="https://github.com/akashrajbhoj/blog-system" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=Blog+System" alt="Blog System" width="300" style="margin:10px; border-radius:10px;"/>
-  <br>
-  <b>Blog Management System</b>  
-  <br>
-  <a href="https://github.com/akashrajbhoj/blog-system" target="_blank">View Repo</a> | <a href="#" target="_blank">Live Demo</a>
-</a>
+  <!-- Vehicle Management -->
+  <a href="https://github.com/akashrajbhoj/vehicle-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashrajbhoj&repo=vehicle-management&theme=tokyonight" alt="Vehicle Management" />
+  </a>
 
-<a href="https://github.com/akashrajbhoj/MyFirstProjectCRUDOperation" target="_blank">
-  <img src="https://via.placeholder.com/300x150.png?text=CRUD+Project" alt="MyFirstProjectCRUDOperation" width="300" style="margin:10px; border-radius:10px;"/>
-  <br>
-  <b>My First CRUD Project</b>  
-  <br>
-  <a href="https://github.com/akashrajbhoj/MyFirstProjectCRUDOperation" target="_blank">View Repo</a> | <a href="#" target="_blank">Live Demo</a>
-</a>
+  <!-- Blog Management -->
+  <a href="https://github.com/akashrajbhoj/blog-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashrajbhoj&repo=blog-system&theme=tokyonight" alt="Blog Management System" />
+  </a>
+
+  <!-- CRUD Project -->
+  <a href="https://github.com/akashrajbhoj/MyFirstProjectCRUDOperation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashrajbhoj&repo=MyFirstProjectCRUDOperation&theme=tokyonight" alt="My First CRUD Project" />
+  </a>
+</p>
+
 
 </div>
 
