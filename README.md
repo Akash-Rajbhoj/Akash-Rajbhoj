@@ -103,6 +103,12 @@
 <a>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;API+Development+%26+Cloud+Exploration;Always+Learning+New+Things!" alt="Typing SVG" />
  </a>
+  <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1572B6&center=true&width=600&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;Building+Beautiful+%26+Responsive+UI;Always+Learning+New+Tech!" alt="Frontend Typing SVG" />
+  </a>
+</p>
+
 </p>
 
     
