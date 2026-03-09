@@ -1,53 +1,90 @@
 # Hi there 👋 I'm Akash Rajbhoj
 
-💻 Full Stack Developer with experience in building scalable backend systems and responsive web applications.
+💻 **Full Stack Developer | Java & Spring Boot Specialist**
 
-🔹 Skilled in Java, Spring Boot, REST APIs, and database design  
-🔹 Passionate about backend architecture and microservices  
-🔹 Currently exploring Cloud, Docker, and DevOps
+I am a passionate developer with experience in building scalable backend systems and responsive web applications. I enjoy designing REST APIs, working with databases, and building reliable software solutions.
+
+---
+
+## 🚀 About Me
+
+- 💼 3+ Years Experience in Software Development
+- 🔭 Currently working on **Java Spring Boot Applications**
+- 🌱 Learning **Microservices, Docker, and Cloud Technologies**
+- ⚡ Interested in **Backend Architecture and System Design**
+- 🤝 Open to collaborate on **Open Source and Backend Projects**
 
 ---
 
 ## 🛠️ Tech Stack
 
-Backend  
-Java • Spring Boot • Hibernate • REST APIs
+### Backend
+- Java
+- Spring Boot
+- Hibernate / JPA
+- REST APIs
 
-Database  
-MySQL • PostgreSQL
+### Database
+- MySQL
+- PostgreSQL
 
-Frontend  
-HTML • CSS • JavaScript • Bootstrap • React
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- React (Basic)
 
-Tools & DevOps  
-Git • Docker • Postman • Azure
+### Tools & DevOps
+- Git
+- Docker
+- Postman
+- Azure
+- CI/CD (Basic)
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🚗 Vehicle Management System
-Spring Boot application for managing vehicle data with REST APIs.
+A backend application built using **Spring Boot and MySQL** for managing vehicle records and operations.
 
 🔗 https://github.com/Akash-Rajbhoj/vehicle-management
 
 ---
 
-### 📋 Employee CRUD Application
-Full-stack application using Spring Boot and MySQL to manage employee records.
+### 📋 Employee Management System
+Full-stack application using **Spring Boot + REST APIs + MySQL** to perform CRUD operations for employee data.
 
 🔗 https://github.com/Akash-Rajbhoj/MyFirstProjectCRUDOperation
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-Rajbhoj&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akash-Rajbhoj&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash-Rajbhoj&theme=tokyo-night)
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: akashrajbhoj30@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/akash-rajbhoj-9b8729250  
-💻 GitHub: https://github.com/Akash-Rajbhoj
+📧 Email  
+akashrajbhoj30@gmail.com  
+
+💼 LinkedIn  
+https://www.linkedin.com/in/akash-rajbhoj-9b8729250  
+
+💻 GitHub  
+https://github.com/Akash-Rajbhoj
+
+---
+
+⭐ *If you like my work, feel free to follow or connect with me.*
